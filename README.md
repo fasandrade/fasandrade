@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fasandrade
+- 👋 Hi, I’m Felipe Andrade
 - 👀 I’m interested in Cloud, DevOps, Linux.
 - 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on digital totem project as DevOps.
-- 📫 How to reach me https://www.linkedin.com/in/fasandrad/
+- 📫 How to reach me fasandrad@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a cyclist, I like swimming, and I play computer games.
 
