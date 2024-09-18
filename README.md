@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on digital totem project as DevOps.
 - 📫 How to reach me fasandrad@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a cyclist, I like swimming, and I play computer games.
+- ⚡ Fun fact: I'm a cyclist, I like swimming and I play computer games.
 
 <!---
 fasandrade/fasandrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
